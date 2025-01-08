@@ -23,7 +23,6 @@
 }
 
 #second-box{
-    border: 1px solid white;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
