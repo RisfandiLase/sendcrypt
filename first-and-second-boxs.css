@@ -1,0 +1,72 @@
+.start{
+    color: white;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 64px;
+    margin-bottom: 20px;
+}
+.join{
+    color: #787A8D;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0px 0px 50px 0px;
+}
+ 
+.right-box{
+    margin-left: auto;
+}
+
+#first-box{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#second-box{
+    border: 1px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 32px;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 90px;
+}
+
+#second-box > div {
+    flex: 1;
+    min-width: 250px;
+    max-width: 400px;
+}
+
+.security, .wallet, .i{
+}
+
+.strong, .payments, .market{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.secure, .flexible, .the{
+    color: #787A8D;
+    text-align: center;
+    font-weight: 400;
+    line-height: 24px;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+.pack-left, .pack-middle, .pack-right{
+    border: 2px solid #787A8D;
+    border-radius: 24px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 32px;
+    gap: 32px;
+    height: 270px;
+    padding-bottom: 0px;
+}

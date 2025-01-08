@@ -1,0 +1,41 @@
+.heading{
+    display: flex;
+    align-items: center;
+    height: 108px;
+}
+
+
+.navigation ul{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+.navigation a{
+    text-decoration: none;
+    color: #A7AEBF;
+    font-weight: 400;
+}
+
+
+.connect{
+    background-color: #F5C249;
+    font-weight: 500;
+    color: #16171D;
+    border-radius: 12px;
+    height: 56px;
+    width: 203px;
+    gap: 10px;
+    padding: 12px 20px 12px 20px;
+    border: none;
+    font-size: 18px;
+}
+
+.sendcrypt-logo{
+    width: 174px;
+    height: 52px;
+}
+.connect-button{
+    margin-left: auto;
+    cursor: zoom-out;
+
+}

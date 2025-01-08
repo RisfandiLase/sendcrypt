@@ -1,0 +1,61 @@
+.latest{
+    font-weight: 700;
+    color: white;
+    font-size: 44px;
+    margin-top: 200px;
+    margin-left: 90px;
+    margin-bottom: 15px;
+}
+
+span{
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 15px;
+}
+
+.from, .to, .Amount, .message{
+    color: #787A8D;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 0%;
+    margin: 20px;    
+}
+
+.yellow{
+    background-color: #F5C249;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 4px;
+    position: absolute;
+    top: 270px;
+    left: 80px;
+    height: 34px;
+    align-items: center;
+    display: flex;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+#fourth-box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    width: 100%;
+    justify-content: center;
+}
+
+.card{
+    background-color: #21242D;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;   
+    position: relative;
+}
+
+
+.pict{
+    margin: 20px;
+}
+
